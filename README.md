@@ -8,7 +8,7 @@ When you record something in audacity there is a chance that the program will cr
 
 - I recommend that you use this script on a copy of the temporary .au files and not on the originals.
 
-- This script has only been tested on one project, the project was recorded in stereo and the crash was relatively recent, although in this case it worked I can't confirm that it works in all cases.
+- This script has only been tested on one project in **Audacity v2.4.1**, the project was recorded in stereo and the crash was relatively recent, although in this case it worked I can't confirm that it works in all cases.
 
 ## How to use
 
