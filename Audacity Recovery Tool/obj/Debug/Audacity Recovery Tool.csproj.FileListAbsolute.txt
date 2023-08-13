@@ -1,0 +1,20 @@
+C:\Users\Administrator\source\repos\Audacity Recovery Tool\Audacity Recovery Tool\bin\Debug\Audacity Recovery Tool.exe.config
+C:\Users\Administrator\source\repos\Audacity Recovery Tool\Audacity Recovery Tool\bin\Debug\Audacity Recovery Tool.exe
+C:\Users\Administrator\source\repos\Audacity Recovery Tool\Audacity Recovery Tool\bin\Debug\Audacity Recovery Tool.pdb
+C:\Users\Administrator\source\repos\Audacity Recovery Tool\Audacity Recovery Tool\obj\Debug\Audacity Recovery Tool.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Audacity Recovery Tool\Audacity Recovery Tool\obj\Debug\Audacity_Recovery_Tool.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Audacity Recovery Tool\Audacity Recovery Tool\obj\Debug\Audacity Recovery Tool.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Audacity Recovery Tool\Audacity Recovery Tool\obj\Debug\Audacity Recovery Tool.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Audacity Recovery Tool\Audacity Recovery Tool\obj\Debug\Audacity Recovery Tool.exe
+C:\Users\Administrator\source\repos\Audacity Recovery Tool\Audacity Recovery Tool\obj\Debug\Audacity Recovery Tool.pdb
+C:\Users\Administrator\source\repos\Audacity Recovery Tool\Audacity Recovery Tool\obj\Debug\Audacity_Recovery_Tool.ART.resources
+C:\Users\Administrator\Documents\GitHub\audacity-recovery-tool\Audacity Recovery Tool\bin\Debug\Audacity Recovery Tool.exe.config
+C:\Users\Administrator\Documents\GitHub\audacity-recovery-tool\Audacity Recovery Tool\bin\Debug\Audacity Recovery Tool.exe
+C:\Users\Administrator\Documents\GitHub\audacity-recovery-tool\Audacity Recovery Tool\bin\Debug\Audacity Recovery Tool.pdb
+C:\Users\Administrator\Documents\GitHub\audacity-recovery-tool\Audacity Recovery Tool\obj\Debug\Audacity Recovery Tool.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\audacity-recovery-tool\Audacity Recovery Tool\obj\Debug\Audacity_Recovery_Tool.Properties.Resources.resources
+C:\Users\Administrator\Documents\GitHub\audacity-recovery-tool\Audacity Recovery Tool\obj\Debug\Audacity_Recovery_Tool.ART.resources
+C:\Users\Administrator\Documents\GitHub\audacity-recovery-tool\Audacity Recovery Tool\obj\Debug\Audacity Recovery Tool.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\GitHub\audacity-recovery-tool\Audacity Recovery Tool\obj\Debug\Audacity Recovery Tool.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\audacity-recovery-tool\Audacity Recovery Tool\obj\Debug\Audacity Recovery Tool.exe
+C:\Users\Administrator\Documents\GitHub\audacity-recovery-tool\Audacity Recovery Tool\obj\Debug\Audacity Recovery Tool.pdb
